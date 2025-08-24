@@ -1,4 +1,4 @@
-# Major Project
+# server to server communication 
 
 ## How to Run the Project
 
